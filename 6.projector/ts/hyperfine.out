@@ -1,0 +1,4 @@
+Benchmark 1: npx ts-node src/index.ts --config /home/alex/code/poly-ts-go-rs/6.projector/ts/conf.json foo
+  Time (mean ± σ):      2.727 s ±  0.104 s    [User: 3.591 s, System: 0.246 s]
+  Range (min … max):    2.616 s …  2.966 s    10 runs
+ 

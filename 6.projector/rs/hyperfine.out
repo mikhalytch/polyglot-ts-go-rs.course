@@ -1,0 +1,4 @@
+Benchmark 1: cargo run --bin projector -- --config /home/alex/code/poly-ts-go-rs/6.projector/rs/conf.json foo
+  Time (mean ± σ):     138.2 ms ±   2.6 ms    [User: 105.0 ms, System: 33.0 ms]
+  Range (min … max):   136.5 ms … 147.1 ms    20 runs
+ 

@@ -1,0 +1,4 @@
+Benchmark 1: go run ./cmd/projector -c /home/alex/code/poly-ts-go-rs/6.projector/go/conf.json
+  Time (mean ± σ):     264.7 ms ±  14.0 ms    [User: 233.5 ms, System: 71.5 ms]
+  Range (min … max):   243.7 ms … 284.9 ms    10 runs
+ 
